@@ -1,31 +1,31 @@
 [
   {
-    "avatar": "https://www.flaticon.com/svg/static/icons/svg/763/763704.svg",
-    "name": "Mango",
+    "avatar": "https://static.wikia.nocookie.net/317f72c5-1680-4e52-977a-195ac644a853",
+    "name": "Alex",
     "isOnline": true,
     "id": 1812
   },
   {
-    "avatar": "https://www.flaticon.com/svg/static/icons/svg/1998/1998671.svg",
-    "name": "Kiwi",
+    "avatar": "https://img.rosbalt.ru/photobank/7/3/6/2/yCjMLnRb-580.jpg",
+    "name": "Anna",
     "isOnline": false,
     "id": 1137
   },
   {
-    "avatar": "https://www.flaticon.com/svg/static/icons/svg/1623/1623681.svg",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCcB6aYjAufF34ZNm7jeaQWbv_XzwxXeJ5AVQdhXw_a4qvebY1LYVuhTGVfMOMmGk2Pg8&usqp=CAU",
     "name": "Ajax",
     "isOnline": true,
     "id": 1213
   },
   {
-    "avatar": "https://www.flaticon.com/svg/static/icons/svg/2977/2977285.svg",
+    "avatar": "https://outstyle.org/images/news/5/7/1/jay.jpg",
     "name": "Jay",
     "isOnline": true,
     "id": 1714
   },
   {
-    "avatar": "https://www.flaticon.com/svg/static/icons/svg/1998/1998749.svg",
-    "name": "Poly",
+    "avatar": "https://miro.medium.com/max/1400/1*9D3LGuYNJrgcUMAy7uxTzQ.jpeg",
+    "name": "Sophia",
     "isOnline": false,
     "id": 1284
   }
