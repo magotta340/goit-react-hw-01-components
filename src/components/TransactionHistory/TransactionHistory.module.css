@@ -19,7 +19,7 @@
 .transaction-head {
   border: 0px solid #b5b5b5;
 
-  background-color: #00bcd5;
+  background-color: #c1ec00;
   color: #ffffff;
 
   text-transform: uppercase;
@@ -42,7 +42,7 @@
 
 .transaction-cell:hover,
 .transaction-cell:focus {
-  background-color: #c9dcdf;
+  background-color: #ebddb8;
   transition: background-color 250ms linear;
 }
 
